@@ -6,8 +6,9 @@ const useStyles = makeStyles((theme) => {
             display: 'flex',
             justifyContent: 'center',
             alignItems: 'center',
-            border: '1px solid #000',
-            height: '100vh'
+            // border: '1px solid #000',
+            height: '100vh',
+            backgroundColor: '#add8e6'
         },
         cardStyles: {
             height: '40vh',
