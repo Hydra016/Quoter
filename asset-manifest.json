@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Quoter/static/js/main.d90bd4dd.js",
+    "index.html": "/Quoter/index.html",
+    "main.d90bd4dd.js.map": "/Quoter/static/js/main.d90bd4dd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d90bd4dd.js"
+  ]
+}
