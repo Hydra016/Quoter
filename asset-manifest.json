@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/Quoter/static/js/main.d90bd4dd.js",
+    "main.css": "/Quoter/static/css/main.9a116a7b.css",
+    "main.js": "/Quoter/static/js/main.73a863e4.js",
     "index.html": "/Quoter/index.html",
-    "main.d90bd4dd.js.map": "/Quoter/static/js/main.d90bd4dd.js.map"
+    "main.9a116a7b.css.map": "/Quoter/static/css/main.9a116a7b.css.map",
+    "main.73a863e4.js.map": "/Quoter/static/js/main.73a863e4.js.map"
   },
   "entrypoints": [
-    "static/js/main.d90bd4dd.js"
+    "static/css/main.9a116a7b.css",
+    "static/js/main.73a863e4.js"
   ]
 }
