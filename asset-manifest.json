@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Quoter/static/css/main.af860546.css",
-    "main.js": "/Quoter/static/js/main.9505b844.js",
+    "main.js": "/Quoter/static/js/main.6039c65b.js",
     "static/media/scene.jpg": "/Quoter/static/media/scene.c64e374ff20c5ef1b259.jpg",
     "index.html": "/Quoter/index.html",
     "main.af860546.css.map": "/Quoter/static/css/main.af860546.css.map",
-    "main.9505b844.js.map": "/Quoter/static/js/main.9505b844.js.map"
+    "main.6039c65b.js.map": "/Quoter/static/js/main.6039c65b.js.map"
   },
   "entrypoints": [
     "static/css/main.af860546.css",
-    "static/js/main.9505b844.js"
+    "static/js/main.6039c65b.js"
   ]
 }
